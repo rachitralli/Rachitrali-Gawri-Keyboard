@@ -390,7 +390,7 @@
               },
               {
                 "id": "K_LBRKT",
-                "text": "ݫ"
+                "text": "؎"
               },
               {
                 "id": "K_RBRKT",
@@ -409,7 +409,7 @@
             "key": [
               {
                 "id": "K_BKQUOTE",
-                "text": "ࣿ"
+                "text": "ؔ"
               },
               {
                 "id": "K_A",
@@ -445,7 +445,7 @@
               },
               {
                 "id": "K_L",
-                "text": "ٰ"
+                "text": "۞"
               },
               {
                 "id": "K_COLON",
@@ -1560,7 +1560,7 @@
             "key": [
               {
                 "id": "K_Q",
-                "text": "؂",
+                "text": "©",
                 "pad": 75,
                 "layer": "ctrlalt"
               },
@@ -1647,7 +1647,7 @@
               },
               {
                 "id": "K_D",
-                "text": "ؕ",
+                "text": "®",
                 "layer": "ctrlalt"
               },
               {
