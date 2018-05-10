@@ -5,7 +5,7 @@ Keyboard Data
 * Copyright:      (C) 2017 Rehmat Aziz Chitrali
 * Version:        1.0
 * Keyman Version: 9.0
-* BCP-47 codes:   Gwc-Arab
+* BCP-47 codes:   gwc-Arab
 
 Description
 -----------
@@ -32,7 +32,7 @@ Links
 -----
 
  * Home:    https://keyman.com/
- * KeymanWeb:     https://keymanweb.com/#gwr,Keyboard_rac_gawri
+ * KeymanWeb:     https://keymanweb.com/#gwc,Keyboard_rac_gawri
  * Help:    https://help.keyman.com/keyboard/rac_gawri
  * Contact: <rachitrali@yahoo.com>
  * Contact: <khowaracademy@yahoo.com>
